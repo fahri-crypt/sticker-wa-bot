@@ -1,0 +1,2 @@
+ketik perintah pada cmd jika "pnpm : File C:\Users\HP\AppData\Roaming\npm\pnpm.ps1 cannot be loaded because running scripts is disabled on this system."
+(Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass)
